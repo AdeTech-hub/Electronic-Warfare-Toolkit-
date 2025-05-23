@@ -1,0 +1,38 @@
+# Electronic Warfare (EW) – Basic Concepts
+
+## What is Electronic Warfare?
+
+Electronic Warfare (EW) is the strategic use of the electromagnetic spectrum (EMS) to:
+- Attack an enemy
+- Protect yourself
+- Support operations
+
+EW is generally divided into **three categories**:
+
+### 1. Electronic Attack (EA)
+- Use of electromagnetic energy to **deny, degrade, or destroy** enemy systems.
+- Examples: Jamming enemy radars, spoofing GPS signals.
+
+### 2. Electronic Protection (EP)
+- Measures taken to **protect your systems** from enemy electronic attacks.
+- Examples: Frequency hopping, shielding, encryption.
+
+### 3. Electronic Support (ES)
+- Using sensors to **detect, identify, and locate** enemy signals.
+- Examples: Radar detection, signal interception.
+
+## Real-World Applications
+
+- Military communication security
+- Radar evasion and jamming
+- Drone and aircraft defense systems
+
+## Tools and Technologies
+
+- Software-defined radios (SDRs)
+- Direction-finding antennas
+- Signal analysis tools (e.g., GNU Radio)
+
+## Ethics & Legality
+
+This project is educational. Unauthorized signal interference is **illegal and unethical**.
